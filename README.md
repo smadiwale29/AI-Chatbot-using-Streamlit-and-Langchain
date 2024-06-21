@@ -16,7 +16,7 @@ OpenAI API key
 Installation
 
 ## Clone the repository:
-git clone https://github.com/yourusername/ai-chatbot.git
+git clone [Repot](https://github.com/smadiwale29/AI-Chatbot-using-Streamlit-and-Langchain/tree/main)
 cd ai-chatbot
 
 ## Create a virtual environment and activate it:
